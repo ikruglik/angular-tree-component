@@ -1,6 +1,6 @@
 {
-  "name": "@circlon/angular-tree-component",
-  "version": "11.0.4",
+  "name": "@ikruglik/angular-tree-component",
+  "version": "14.0.1",
   "description": "A simple yet powerful tree component for Angular2",
   "author": "Circlon Group <os-group@circlon.de>",
   "homepage": "https://github.com/CirclonGroup/angular-tree-component",
@@ -56,7 +56,6 @@
   "files": [
     "dist/"
   ],
-  "readme": "https://github.com/CirclonGroup/angular-tree-component/blob/master/README.md",
   "contributors": [
     "Adam Klein <adam@500tech.com>"
   ],
@@ -116,9 +115,12 @@
     "uuid": "^9.0.0",
     "zone.js": "^0.12.0"
   },
-  "repository": "https://github.com/CirclonGroup/angular-tree-component.git",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ikruglik/angular-tree-component.git"
+  },
   "bugs": {
-    "url": "https://github.com/CirclonGroup/angular-tree-component/issues"
+    "url": "https://github.com/ikruglik/angular-tree-component/issues"
   },
   "engines": {
     "node": ">=10.21.0"

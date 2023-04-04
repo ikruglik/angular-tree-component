@@ -8,7 +8,7 @@ import { Component } from '@angular/core';
 export class OptionsComponent {
 
   options = `
-import { TREE_ACTIONS, KEYS, IActionMapping, ITreeOptions } from '@circlon/angular-tree-component';
+import { TREE_ACTIONS, KEYS, IActionMapping, ITreeOptions } from '@ikruglik/angular-tree-component';
 
 class MyComponent {
   ...
